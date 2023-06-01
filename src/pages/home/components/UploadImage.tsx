@@ -67,7 +67,7 @@ const UploadImage: FC<UploadImageProps> = ({ img, onUploaded, onRemove }) => {
             }}
             {...getRootProps({ className: 'dropzone' })}
           >
-            Pick an Passport Image
+            Pick a Passport Image
           </Button>
 
           <Button
