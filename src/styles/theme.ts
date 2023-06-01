@@ -1,4 +1,5 @@
 import { createTheme } from '@mui/material/styles';
+
 import { colorPalette } from '@uiKits/colors';
 
 export const theme = createTheme({
