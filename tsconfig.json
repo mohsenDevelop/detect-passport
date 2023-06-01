@@ -34,6 +34,9 @@
       "@mui/styled-engine": [
         "./node_modules/@mui/styled-engine-sc"
       ],
+      "@styles/*": [
+        "src/styles/*"
+      ],
       "@assets/*": [
         "src/assets/*"
       ],
@@ -48,6 +51,9 @@
       ],
       "@config/*": [
         "src/config/*"
+      ],
+      "@uiKits/*": [
+        "src/uiKits/*"
       ],
     }
   },
